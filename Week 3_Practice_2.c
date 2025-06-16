@@ -41,7 +41,7 @@ int getInputIndex(char input)
 
 int main()
 {
-    char input[100] = {'1', '0', '1', '1'};
+    char input[100] = {'1', '0', '1', 'y'};
 
     int currentState = STATE_0; // Start at state 0
     int index = 0;

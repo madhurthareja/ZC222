@@ -20,7 +20,7 @@
 
 int main()
 {
-    char input[100] = {'1', '0', '1', '0'};
+    char input[100] = {'1', '0', '1', '1'};
 
     int state = 0; // Start at state 0
     int index = 0;
